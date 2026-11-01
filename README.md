@@ -1,8 +1,12 @@
 This is a project made for week 2 of the hack club terra project. It involves using magnets to move robots around a maze, guiding them towards a goal.
+
 The game can be played at https://felxybozinni.github.io/magnet-game/Web%20Export/Magnetic%20Game.html
+
 To use the magnets, you click on the yellow rectangles - this will cycle them to negative, which when clicked again will cycle to positive, and then back to the yellow neutral.
 To win a level, you have to guide every robot into the chequered space, of which there will usually be around three.
 There is one other type of robot that reacts to the magnets oppositely, the red robot. It is introduced in the 13th level.
+
+I made this because I thougt it would be pretty cool to make! I couldn't find other games with this concept, and may develop it further outside of Terra!
 <img width="2560" height="1440" alt="Screenshot 2026-11-01 at 19 46 19" src="https://github.com/user-attachments/assets/e351f8a6-e6f3-4f44-a141-08fe44401040" />
 <img width="2560" height="1440" alt="Screenshot 2026-11-01 at 19 46 15" src="https://github.com/user-attachments/assets/1d35deb8-5c05-4d94-84d6-6f02e9d2bc0b" />
 <img width="2560" height="1440" alt="Screenshot 2026-11-01 at 19 46 10" src="https://github.com/user-attachments/assets/70cb8780-80d1-49f7-9497-a57df4a73be6" />
